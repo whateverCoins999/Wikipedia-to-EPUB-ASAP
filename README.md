@@ -13,7 +13,7 @@ Just download the `.exe` file and run it. no Python or installation required.
 
 ## Other Platforms
 Install Python and the dependencies
-`pip install pip install pillow wikipedia-api ebooklib` 
+`pip install pillow wikipedia-api ebooklib` 
 
 then run the script.
 
